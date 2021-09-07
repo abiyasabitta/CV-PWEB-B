@@ -1,0 +1,53 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: bisque;
+    margin: 100px;
+}
+
+.Introduction img{
+    float: right;
+}
+
+.Introduction{
+    float: left;
+    padding: 50px;
+    color:black;
+    background-color: beige;
+    font-family: fantasy;
+    height: 200px;
+}
+
+.Premise{
+    display: inline-block;
+    padding: 50px;
+    height: 100px;
+    background-color: darkseagreen ;
+}
+
+.Knowledge{
+    height: 100px;
+    font-size: larger;
+    background-color: maroon;
+    color: white;
+    padding: 50px;
+}
+
+.Education{
+    padding: 50px;
+    background-color: cornflowerblue;
+}
+
+.Knowledge li{
+    float: left;
+    list-style: square;
+}
+
+.Achievements li{
+    float: left;
+    list-style-type: disc;
+}
+
+.Achievements{
+    padding: 50px;
+    background-color: beige;
+}
